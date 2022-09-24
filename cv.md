@@ -26,7 +26,7 @@ function countPositivesSumNegatives(input) {
 }
 console.log (countPositivesSumNegatives([]))
 Work experience:
-•	CJSC "Vyasnyanka" – economist;
+•	CJSC "Vyasnyanka" – economist-marketolog;
 •	Metropol Hotel – front desk administrator (receptionist), chief adminisrator;
 Education:
 •	Belarusian-Russian University – Faculty of economics (economist - marketing specialist.)
