@@ -1,7 +1,9 @@
 #**Alesia Nyrtsova**
 
 **Junior Frontend Developer**
+
 *************************
+
 #**Contact information:**
 
 **Phone**: +375 29 29 377 18
@@ -9,7 +11,9 @@
 **E-mail**: nyrtsova.a@gmail.com
 
 **Discord**: AlesiaNyrt#2827
+
 *************************
+
 #**About myself:**
 
 I’m 36 years old and I’m very interested in programming. Now I try understand which area of IT is more interesting for me. I worked a little with databases and I really liked it. I thank my current job for the experience, but I would like to have an opportunity to grow and develop in other direction and these courses is great chance for that.
