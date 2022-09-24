@@ -40,7 +40,7 @@ console.log (countPositivesSumNegatives([]))
 
 * CJSC "Vyasnyanka" – economist-marketolog;
 * Metropol Hotel – front desk administrator (receptionist), chief adminisrator;
-* 
+
 #**Education:**
 
 * Belarusian-Russian University – Faculty of economics (economist - marketing specialist.)
@@ -48,7 +48,7 @@ console.log (countPositivesSumNegatives([]))
 * Courses: “HTML/CSS”, “JavaScript”, “SQL Fundamentals” (IT school -“Melarossa”)
 * LeverX Group course “Intro to IT” 
 * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
-* 
+
 #**Languages:**
 
 * Russian – native speaker;
